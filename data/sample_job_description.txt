@@ -1,0 +1,1 @@
+We are hiring a Software Engineer with experience in Python, NLP, FastAPI, and deploying machine learning models. Responsibilities include building NLP pipelines and production APIs.
