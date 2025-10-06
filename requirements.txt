@@ -7,3 +7,6 @@ faiss-cpu
 streamlit
 python-multipart
 pydantic
+openai
+pandas
+PyPDF2
